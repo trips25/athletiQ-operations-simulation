@@ -1,5 +1,60 @@
-# AthletIQ Operations Workspace
+# AthletIQ Operations Simulation Project
 
-This folder contains simulated operational activities for managing product development, CRM workflows, AI-assisted operations, and startup coordination within AthletIQ.
+This repository simulates the operational environment of an AI-powered athlete development startup.
 
-The purpose of this workspace is to demonstrate real-world startup operations management practices using GitHub.
+The project was designed to demonstrate workflow management, sprint coordination, CRM organization, documentation systems, and AI-assisted operational processes using GitHub and Notion.
+
+---
+
+## Systems Included
+
+- GitHub Issue Tracking
+- Workflow Coordination with GitHub Projects
+- Sprint Simulation using Milestones
+- CRM Pipeline Organization
+- Product Roadmap Management
+- Product Testing & QA Tracking
+- SOP Documentation Systems
+- AI-Assisted Workflow Operations
+
+---
+
+## Tools Used
+
+- GitHub
+- Notion
+- ChatGPT
+- Workflow Management Systems
+- Documentation Systems
+
+---
+
+## Operational Features
+
+### Project Management
+- Task tracking
+- Workflow stages
+- Sprint planning
+- Priority management
+
+### Documentation Systems
+- SOP library
+- Meeting notes
+- Weekly reports
+- Operational updates
+
+### CRM & Outreach Simulation
+- Lead tracking
+- Pipeline organization
+- Outreach workflow management
+
+### Product Operations
+- Testing feedback systems
+- Product roadmap planning
+- Feature tracking workflows
+
+---
+
+## Related Workspace
+
+https://www.notion.so/AthletIQ-Operations-Portfolio-366ca80c0f3280f080ebc33903c916bf?source=copy_link
